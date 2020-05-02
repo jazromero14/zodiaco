@@ -1,0 +1,75 @@
+[
+	{
+		"nombre":"Aries",
+		"fechas":"21 de marzo – 20 de abril",
+		"astro":"Marte/Plutón",
+		"elemento":"Fuego"
+	},
+	{
+		"nombre":"Tauro",
+		"fechas":"21 de abril – 20 de mayo",
+		"astro":"Venus / Tierra",
+		"elemento":"Tierra"
+	},
+	{
+		"nombre":"Géminis",
+		"fechas":"21 de mayo – 24 de junio",
+		"astro":"Mercurio",
+		"elemento":"Aire"
+	},
+	{
+		"nombre":"Cáncer",
+		"fechas":"25 de junio – 22 de julio",
+		"astro":"Luna",
+		"elemento":"Agua"
+	},
+	{
+		"nombre":"Leo",
+		"fechas":"23 de julio – 23 de agosto",
+		"astro":"Sol",
+		"elemento":"Fuego"
+	},
+	{
+		"nombre":"Virgo",
+		"fechas":"24 de agosto – 23 de septiembre",
+		"astro":"Mercurio",
+		"elemento":"Tierra"
+	},
+	{
+		"nombre":"Libra",
+		"fechas":"24 de septiembre – 22 de octubre",
+		"astro":"Venus",
+		"elemento":"Aire"
+	},
+	{
+		"nombre":"Escorpio",
+		"fechas":"23 de octubre – 22 de noviembre",
+		"astro":"Plutón / Marte",
+		"elemento":"Agua"
+	},
+	{
+		"nombre":"Sagitario",
+		"fechas":"22 de noviembre – 21 de diciembre",
+		"astro":"Júpiter",
+		"elemento":"Fuego"
+	},
+	{
+		"nombre":"Capricornio",
+		"fechas":"22 de diciembre – 19 de enero",
+		"astro":"Saturno",
+		"elemento":"Tierra"
+	},
+	{
+		"nombre":"Acuario",
+		"fechas":"20 de enero – 18 de febrero",
+		"astro":"Urano / Saturno",
+		"elemento":"Aire"
+	},
+	{
+		"nombre":"Piscis",
+		"fechas":"19 de febrero – 20 de marzo",
+		"astro":"Neptuno / Júpiter",
+		"elemento":"Agua"
+	}
+
+]
